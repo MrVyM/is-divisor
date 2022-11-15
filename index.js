@@ -1,7 +1,7 @@
 /*!
  * is-divisor <https://github.com/MrVyM/is-divisor>
  *
- * Copyright (c) 2014-present, Jon Schlinkert.
+ * Copyright (c) 2022-present, Mr VyM.
  * Released under the MIT License.
  */
 
