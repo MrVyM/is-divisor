@@ -28,6 +28,11 @@ isDivisor(null,2);
 isDivisor(NaN,1);
 ```
 
+### Author
+
+**Mr VyM**
+* [GitHub Profile](https://github.com/MrVyM)
+
 ## Licence
 
 Copyright © 2022, [Mr VyM](https://github.com/MrVyM).
