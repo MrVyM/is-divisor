@@ -10,17 +10,5 @@
 var assert = require('assert');
 var isDivisor = require('./');
 
-describe('is a number', function() {
-  var fixtures = [
-    0xff,
-    5e3,
-    0,
-    0.1,
-  ];
-
-  fixtures.forEach(function(num, idx) {
-    it(JSON.stringify(num) + ' should be a divisor', function() {
-      assert(isDivisor(num,num), 'expected "' + String(num) + '" to be a divisor');
-    });
-  });
-});
+console.log(isDivisor(4,3));
+console.log(isDivisor(3,3));
